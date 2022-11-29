@@ -1,3 +1,5 @@
+# Saca linea de texto si la palabra instroducida coincide con alguna 
+# del texto
 def listaLineas():
     fichero = input("Introduce el nombre del fichero o exit para salir: ")
     if(fichero != "exit"):
